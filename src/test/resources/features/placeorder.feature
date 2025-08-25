@@ -15,4 +15,3 @@ Then the user clicks the logout button and validate the login button in the logi
 Examples:  
 |Username|Password|
 |standard_user|secret_sauce|
-|problem_user|secret_sauce|
